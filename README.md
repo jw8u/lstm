@@ -1,4 +1,4 @@
 # lstm
 
-In this project, I attempted to forecast conditionally heteroskedastic time series data using LSTM.
+In this project, I attempted to forecast conditionally heteroskedastic time series data using LSTM recurrent neural network.
 
